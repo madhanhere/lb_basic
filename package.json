@@ -1,0 +1,22 @@
+{
+  "name": "lb_basic",
+  "version": "1.0.0",
+  "description": "Basic script to test lba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhanhere/lb_basic.git"
+  },
+  "author": "madhan kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhanhere/lb_basic/issues"
+  },
+  "homepage": "https://github.com/madhanhere/lb_basic#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
